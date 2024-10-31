@@ -16,12 +16,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Seconds-Counter/blob
 
 <br>
 
-## How it Works
-
-1. Initializes a counter variable: Sets the initial value to 0.
-2. Updates the counter: Uses setInterval() to increment the counter every second.
-3. Displays the counter: Renders the current count to the HTML element with the ID counter.
-
 
 ## Getting Started
 
@@ -30,6 +24,12 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Seconds-Counter/blob
   ```sh
   git clone https://github.com/AliDeli80/Seconds-Counter.git
   ```
+
+## How it Works
+
+1. Initializes a counter variable: Sets the initial value to 0.
+2. Updates the counter: Uses setInterval() to increment the counter every second.
+3. Displays the counter: Renders the current count to the HTML element with the ID counter.
 
 ## Customization
 
