@@ -8,14 +8,9 @@ Seconds Counter
 
 A simple JavaScript-based seconds counter.
 
-<br>
-
 ## Preview
 
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Seconds-Counter/blob/master/html/index.html
-
-<br>
-
 
 ## Getting Started
 
@@ -36,7 +31,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Seconds-Counter/blob
 - Initial Value: Modify the initial value of the counter variable in script.js.
 - Update Interval: Adjust the interval of the setInterval() function to change the update frequency.
 - Formatting: Customize the way the counter is displayed using string formatting or libraries like toLocaleString().
-
 
 ## Contributing
 1.  Fork the repository.
